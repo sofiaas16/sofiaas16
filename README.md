@@ -14,18 +14,29 @@
 
 ### 💫 About Me
 
-I’m a **Software Developer** with a background in **computer systems**, passionate about building creative and efficient digital solutions.  
-I love combining **Frontend Development** and **Data Science** to turn ideas into interactive experiences.
+I’m a Frontend Developer skilled in HTML, CSS, JavaScript, and Tailwind CSS, passionate about creating responsive and accessible web experiences.
+I also have experience with PHP, Laravel, and API integration, working with MySQL, PostgreSQL, and JSON for data management.
+Familiar with Agile (Scrum) environments, I’m recognized for my teamwork, adaptability, and strong communication skills, always driven by curiosity and creativity.
 
-- 💻 Experienced in **HTML, CSS, JavaScript, Python, PHP**, and **Laravel**
-- 🛠️ Skilled with **MySQL** and **PostgreSQL**
-- 🌱 Currently learning **API development and integration**
-- 🤝 Open to collaborating on projects that focus on **education, accessibility, and social impact**
-- 🌍 Native **Spanish speaker**, fluent in **English (B2)**, currently learning **French (B1)**
+---
+
+- 💻 Frontend focus: **HTML, CSS, JavaScript**, and **Tailwind CSS**  
+- 🐘 Experience with **PHP**, **Laravel**, and database management (**MySQL**, **PostgreSQL**)  
+- 🔄 Knowledge of **API integration** and **JSON handling**  
+- 🧠 Understanding of **Agile (Scrum)** teamwork environments  
+- 🎨 Familiar with **Figma** for UI design  
+- 🤝 Strong **communication** and **collaboration** skills    
+- 🌱 Always learning and exploring new tools and languages  
+- 🌍 Native **Spanish speaker**, fluent in **English (B2)**, and learning **French (B1)**  
+
+---
+
+### 🌟 Beyond Tech
+
+> “Technology connects creativity and purpose — and I love being part of that bridge.”
 
 Outside of tech:  
-> 📖 I love reading | 🎧 Music inspires me | 🌿 Nature recharges me | 🐾 Animal lover | 💬 Passionate about learning new languages
-
+> 📖 I love reading | 🎧 Music inspires me | 🌿 Nature recharges me | 🐾 Animal lover | 🍰 I enjoy making desserts | 🛼 I love skating | 💬 Passionate about learning new languages
 
 📫 Reach me at: **sarahzambrano2019@gmail.com**
 
