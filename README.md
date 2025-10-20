@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm Sara Zambrano! 👋
+  Hey there, I'm Sara Zambrano! 
 </h1>
 
 <p align="center">
@@ -17,14 +17,15 @@
 I’m a **Software Developer** with a background in **computer systems**, passionate about building creative and efficient digital solutions.  
 I love combining **Frontend Development** and **Data Science** to turn ideas into interactive experiences.
 
-- 💻 Experienced in **HTML, CSS, JavaScript, Python**
+- 💻 Experienced in **HTML, CSS, JavaScript, Python, PHP**, and **Laravel**
 - 🛠️ Skilled with **MySQL** and **PostgreSQL**
 - 🌱 Currently learning **API development and integration**
 - 🤝 Open to collaborating on projects that focus on **education, accessibility, and social impact**
 - 🌍 Native **Spanish speaker**, fluent in **English (B2)**, currently learning **French (B1)**
 
-Outside of tech:
-> 📖 I love reading | 🎧 Music inspires me | 🌿 Nature recharges me | 🐾 Animal lover
+Outside of tech:  
+> 📖 I love reading | 🎧 Music inspires me | 🌿 Nature recharges me | 🐾 Animal lover | 💬 Passionate about learning new languages
+
 
 📫 Reach me at: **sarahzambrano2019@gmail.com**
 
