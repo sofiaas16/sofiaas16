@@ -14,20 +14,25 @@
 
 ### 💫 About Me
 
-I’m a Frontend Developer skilled in HTML, CSS, JavaScript, and Tailwind CSS, passionate about creating responsive and accessible web experiences.
-I also have experience with PHP, Laravel, and API integration, working with MySQL, PostgreSQL, and JSON for data management.
-Familiar with Agile (Scrum) environments, I’m recognized for my teamwork, adaptability, and strong communication skills, always driven by curiosity and creativity.
+Junior Full Stack Developer with experience building responsive web applications using HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, and PostgreSQL. Fast learner, adaptable, and focused on problem-solving. Combines logic, design, and best practices to create effective, user-friendly solutions. Strong communication and teamwork skills, passionate about technology and continuous learning.
 
 ---
 
-- 💻 Frontend focus: **HTML, CSS, JavaScript**, and **Tailwind CSS**  
-- 🐘 Experience with **PHP**, **Laravel**, and database management (**MySQL**, **PostgreSQL**)  
-- 🔄 Knowledge of **API integration** and **JSON handling**  
-- 🧠 Understanding of **Agile (Scrum)** teamwork environments  
-- 🎨 Familiar with **Figma** for UI design  
-- 🤝 Strong **communication** and **collaboration** skills    
-- 🌱 Always learning and exploring new tools and languages  
-- 🌍 Native **Spanish speaker**, fluent in **English (B2)**, and learning **French (B1)**  
+- 💻 Full Stack skills: HTML, CSS, JavaScript, Tailwind CSS, PHP, Laravel
+
+- 🗄️ Databases: MySQL & PostgreSQL (queries, relationships, migrations)
+
+- 🔗 APIs: REST API consumption & JSON handling
+
+- 🧩 Backend logic: routing, controllers, authentication, MVC structure
+
+- 🧠 Experience working in Agile/Scrum environments
+
+- 🎨 UI collaboration using Figma
+
+- 🤝 Strong communication, teamwork, and problem-solving
+
+- 🌍 Native Spanish, fluent English (B2), learning French (B1)
 
 ---
 
