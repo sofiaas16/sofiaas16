@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sara Sofía Hernández Zambrano 👋</h1>
 
 <p align="center">
-  <img src="me.gif" width="40">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
 
 <!-- Typing animation -->
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200">
+  <img src="me.gif" width="200">
 </p>
 
 ---
