@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="me.gif" width="200">
+  <img src="me.gif" width="300">
 </p>
 
 ---
@@ -115,16 +115,14 @@ These interests shape the way I approach problem-solving, creativity, and collab
 
 ---
 
-<!-- Soft snake animation -->
 <div align="center">
   <img 
-    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?color_snake=E6A8D7&color_dots=#FADADD,#F8C8DC,#E0BBE4,#CDB4DB,#BDE0FE" 
-    width="600"
+    src="https://ghchart.rshah.org/cc3366/sofiaas16"
+    alt="GitHub Contributions"
   />
 </div>
 
 ---
-
 ## 🌐 Contact
 
 <p align="center">
