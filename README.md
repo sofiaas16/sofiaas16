@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sara Sofía Hernández Zambrano 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="me.gif" width="40">
 </p>
 
 <!-- Typing animation -->
@@ -20,7 +20,7 @@
 
 ## Professional Profile
 
-Junior Full-Stack Software Developer with a background in computer systems and continuous professional training. Experienced in building responsive web applications that integrate backend logic, databases, and modern frontend practices. Recognized for fast learning, adaptability, and a strong problem-solving mindset. Focused on delivering functional, visually consistent, and maintainable solutions through collaboration, communication, and best development practices.
+Software Developer with a background in computer systems and continuous professional training. Experienced in building responsive web applications that integrate backend logic, databases, and modern frontend practices. Recognized for fast learning, adaptability, and a strong problem-solving mindset. Focused on delivering functional, visually consistent, and maintainable solutions through collaboration, communication, and best development practices.
 
 ---
 
