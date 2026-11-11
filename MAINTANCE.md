@@ -5,7 +5,7 @@
 ```
 sofiaas16/                      ← your profile repo (sofiaas16/sofiaas16)
 ├── README.md                   ← the profile itself
-├── assets/                     ← 30 SVGs (light + dark), all generated
+├── assets/                     ← 32 SVGs (light + dark), all generated
 ├── scripts/
 │   ├── build_assets.py         ← THE source of every SVG (palette, texts, projects)
 │   ├── sprite.py               ← pixel-art Sara (light-brown hair) at her laptop
@@ -22,7 +22,8 @@ sofiaas16/                      ← your profile repo (sofiaas16/sofiaas16)
 1. **Settings → Actions → General → Workflow permissions → "Read and write permissions"** → Save.
 2. **Actions** tab → run **📊 Pastel stats** once ("Run workflow").
    Until it runs, the stats images look broken — that's expected.
-3. Section 05 "Take a little break!" only has its header for now — add your game below it in `README.md`.
+3. Section 05 "Take a little break!" shows the Pastel Snake card, linking to the game repo `sofiaas16/culebrita`
+   (live at **https://sofiaas16.github.io/culebrita/** once Pages is enabled there).
 
 ## Everyday updates
 

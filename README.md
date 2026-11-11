@@ -117,7 +117,14 @@ These interests shape the way I approach problem-solving, creativity and collabo
   <img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/section-game-light.svg" width="100%" alt="05 — Take a little break!">
 </picture>
 
-<!-- 🎮 Your game goes here -->
+<a href="https://sofiaas16.github.io/culebrita/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/game-preview-dark.svg">
+  <img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/game-preview-light.svg" width="100%" alt="Pastel Snake — a tiny pastel snake game. Click to play it in your browser.">
+</picture>
+</a>
+
+<p align="center"><a href="https://sofiaas16.github.io/culebrita/"><b>🎮 Play Pastel Snake ↗</b></a> &nbsp;·&nbsp; <sub>opens in your browser · keyboard or touch</sub></p>
 
 <br>
 
