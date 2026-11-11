@@ -117,14 +117,14 @@ These interests shape the way I approach problem-solving, creativity and collabo
   <img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/section-game-light.svg" width="100%" alt="05 — Take a little break!">
 </picture>
 
-<a href="https://sofiaas16.github.io/pastel-snake/">
+<a href="https://sofiaas16.github.io/sofiaas16/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/game-preview-dark.svg">
   <img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/game-preview-light.svg" width="100%" alt="Pastel Snake — a tiny pastel snake game. Click to play it in your browser.">
 </picture>
 </a>
 
-<p align="center"><a href="https://sofiaas16.github.io/pastel-snake/"><b>🎮 Play Pastel Snake ↗</b></a> &nbsp;·&nbsp; <sub>opens in your browser · keyboard or touch</sub></p>
+<p align="center"><a href="https://sofiaas16.github.io/sofiaas16/"><b>🎮 Play Pastel Snake ↗</b></a> &nbsp;·&nbsp; <sub>opens in your browser · keyboard or touch</sub></p>
 
 <p align="center">
   <picture>
@@ -145,7 +145,6 @@ These interests shape the way I approach problem-solving, creativity and collabo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sara-sof%C3%ADa-hern%C3%A1ndez-zambrano-2aa117337/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-linkedin-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-linkedin-light.svg" width="188" alt="LinkedIn"></picture></a>
-  <a href="mailto:sarahzambrano2019@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-email-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-email-light.svg" width="188" alt="Email"></picture></a>
   <a href="https://sofiaas16.github.io/Portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-portfolio-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-portfolio-light.svg" width="188" alt="Portfolio"></picture></a>
   <a href="https://github.com/sofiaas16"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-github-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-github-light.svg" width="188" alt="GitHub"></picture></a>
 </p>
