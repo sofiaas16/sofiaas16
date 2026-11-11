@@ -677,7 +677,6 @@ def main():
         write(f"stack-{th}.svg", stack(th))
         for p in PROJECTS:
             write(f"project-{p['id']}-{th}.svg", project_card(th, p))
-        write(f"game-preview-{th}.svg", game_preview(th))
         for c in CONTACT:
             write(f"contact-{c[0]}-{th}.svg", contact_pill(th, *c))
         write(f"footer-{th}.svg", footer(th))
