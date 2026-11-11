@@ -135,7 +135,6 @@ These interests shape the way I approach problem-solving, creativity and collabo
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sara-sof%C3%ADa-hern%C3%A1ndez-zambrano-2aa117337/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-linkedin-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-linkedin-light.svg" width="188" alt="LinkedIn"></picture></a>
   <a href="https://sofiaas16.github.io/Portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-portfolio-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-portfolio-light.svg" width="188" alt="Portfolio"></picture></a>
   <a href="https://github.com/sofiaas16"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-github-dark.svg"><img src="https://raw.githubusercontent.com/sofiaas16/sofiaas16/main/assets/contact-github-light.svg" width="188" alt="GitHub"></picture></a>
 </p>

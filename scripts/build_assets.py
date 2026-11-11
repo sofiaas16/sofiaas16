@@ -634,7 +634,6 @@ def game_preview(theme):
 
 # ────────────────────────────────────────────────────── 7. CONTACT PILLS ──
 CONTACT = [
-    ("linkedin", "LinkedIn", "Sara Zambrano", "FaLinkedinIn", "blue"),
     ("portfolio", "Portfolio", "my website", "FaGlobe", "mint"),
     ("github", "GitHub", "@sofiaas16", "FaGithub", "lilac"),
 ]

@@ -5,7 +5,7 @@
 ```
 sofiaas16/                      ← your profile repo (sofiaas16/sofiaas16)
 ├── README.md                   ← the profile itself
-├── assets/                     ← 32 SVGs (light + dark), all generated
+├── assets/                     ← 30 SVGs (light + dark), all generated
 ├── scripts/
 │   ├── build_assets.py         ← THE source of every SVG (palette, texts, projects)
 │   ├── sprite.py               ← pixel-art Sara (light-brown hair) at her laptop
